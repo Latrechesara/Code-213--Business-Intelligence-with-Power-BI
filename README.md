@@ -77,17 +77,7 @@ The goal is to transform raw retail data into **secure, automated dashboards dep
 
 ---
 
-# 🔐 Power BI Security
 
-The project implements **enterprise-level BI security**.
-
-| Feature | Purpose |
-|-------|---------|
-| Row Level Security (RLS) | Restrict data visibility based on user roles |
-| Workspace Permissions | Controlling access to reports and datasets |
-| Dataset Security | Managing data access in Power BI Service |
-
----
 
 
 
