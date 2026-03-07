@@ -1,7 +1,7 @@
 # Code-213--Business-Intelligence-with-Power-BI
 ![19534847_6151069](https://github.com/user-attachments/assets/cedc476c-a5f3-4264-91f0-5a4f47439ca2)
 
-# 📊 Power BI Analytics Bootcamp
+#  Power BI Analytics Bootcamp
 
 Welcome to the **Business Intelligence & Data Visualization Track**.
 
@@ -14,7 +14,7 @@ The objective is to build **interactive dashboards, optimized semantic models, a
 
 # 🧭 Module Journey
 
-## 1️⃣ Power BI & DAX Fundamentals
+## 1️Power BI & DAX Fundamentals
 
 DAX (Data Analysis Expressions) is the **analytical engine behind Power BI**.  
 This module teaches how to create **dynamic calculations and business metrics**.
@@ -29,7 +29,7 @@ This module teaches how to create **dynamic calculations and business metrics**.
 
 ---
 
-## 2️⃣ Power BI Data Modeling
+## 2️Power BI Data Modeling
 
 Efficient dashboards rely on **well-designed semantic models**.
 
@@ -43,7 +43,7 @@ Efficient dashboards rely on **well-designed semantic models**.
 
 ---
 
-## 3️⃣ End-to-End Business Intelligence Project — Retail Analytics
+## 3️End-to-End Business Intelligence Project — Retail Analytics
 
 This module simulates a **real enterprise BI solution**.
 
@@ -73,18 +73,7 @@ The goal is to transform raw retail data into **secure, automated dashboards dep
 
 ---
 
-# 📊 Dashboard Insights
-
-The retail analytics dashboards provide insights such as:
-
-- Total Revenue & Profit Trends  
-- Top Performing Products  
-- Regional Sales Performance  
-- Customer Segmentation  
-- Monthly Sales Growth  
-- Inventory Performance  
-
-These insights replicate **real business intelligence scenarios used by retail companies**.
+#real business intelligence scenarios used by retail companies**.
 
 ---
 
@@ -100,19 +89,7 @@ The project implements **enterprise-level BI security**.
 
 ---
 
-# ☁️ Deployment to Power BI Service
 
-The dashboards are deployed to **Power BI Cloud**.
-
-| Step | Description |
-|----|-------------|
-| Publish Report | Upload `.pbix` file to Power BI Service |
-| Create Workspace | Manage project reports and datasets |
-| Configure Dataset | Manage refresh settings |
-| Schedule Refresh | Automate data updates |
-| Share Dashboard | Provide access to stakeholders |
-
----
 
 # ⚙️ Requirements & Setup
 
